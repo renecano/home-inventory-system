@@ -106,6 +106,17 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 ---
 
+
+## 🧠 UX & Design Decisions
+
+- Mobile-first navigation with bottom tab bar
+- Clear separation between inventory, shopping list, and history
+- Minimal authentication flow designed for shared family use
+- Optimistic UI updates for faster interaction
+
+  
+---
+
 ## 📸 Screenshots
 
 _Add screenshots of the application here to improve presentation._
