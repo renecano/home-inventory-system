@@ -119,7 +119,12 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 ## 📸 Screenshots
 
-_Add screenshots of the application here to improve presentation._
+<img width="1242" height="1246" alt="image" src="https://github.com/user-attachments/assets/4f82bbf6-28dd-4627-9877-ab52e3bf9767" />
+<img width="1079" height="1057" alt="image" src="https://github.com/user-attachments/assets/a0d0f6e9-aed8-4f59-8c5b-6c62670e4699" />
+<img width="983" height="802" alt="image" src="https://github.com/user-attachments/assets/16ea057f-bd4d-47b8-94a5-17e580ecac33" />
+<img width="925" height="1238" alt="image" src="https://github.com/user-attachments/assets/bf641aa3-4bbd-4804-9448-d395943f330d" />
+
+
 
 ---
 
